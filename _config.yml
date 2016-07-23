@@ -1,0 +1,14 @@
+layout_spectrum: 0.6935531755443662
+typography_spectrum: 0.6513542665634304
+color:
+  brandStrength: 0.06607887730933726
+  lightness: 0.4313416408840567
+  saturation: 0.9963299054652452
+  rhythmicContrast: 0.8157162594143301
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: Bilco Test
