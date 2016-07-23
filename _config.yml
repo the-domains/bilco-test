@@ -12,3 +12,8 @@ color:
     - '#2667FF'
     - '#3B28CC'
 name: Bilco Test
+navigation:
+  - id: 'http://billingsleyco.com/'
+    url: 'http://billingsleyco.com/'
+    name: Billingsley
+    type: external
