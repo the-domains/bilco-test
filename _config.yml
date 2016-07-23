@@ -6,9 +6,9 @@ color:
   saturation: 0.9963299054652452
   rhythmicContrast: 0.8157162594143301
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Bilco Test
