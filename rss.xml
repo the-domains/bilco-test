@@ -4,8 +4,15 @@
         <description><![CDATA[Bilco Test]]></description>
         <link>https://thegrid.ai/bilco-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 23:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 23:47:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bilco-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26d4baf9-e300-4be7-80b4-cc4864676bed.jpg">]]></description>
+            <link>https://thegrid.ai/bilco-test/355fae53-e12b-4089-80ff-60c8bf9fcbe9/index.html</link>
+            <guid isPermaLink="false">355fae53-e12b-4089-80ff-60c8bf9fcbe9</guid>
+            <pubDate>Sat, 23 Jul 2016 23:47:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/992fd61d-18e5-43ec-9113-9194ad912534.jpg">]]></description>
